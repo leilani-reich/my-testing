@@ -2,9 +2,7 @@
 
 ### My name
 
-I am Leilani Reich.
-
-I am 19 years old.
+I am Leilani.
 
 I like cake.
 
